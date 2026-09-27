@@ -1,4 +1,4 @@
-# Sample 1 — Your first OpenAI Agents API session
+# Your first OpenAI Agents API session
 
 This is Lab 1 of a planned 50-lab course. You will create one agent, give it one task, and inspect the events returned by the Agents API. This lab uses the **Agents API** through the `openai` Python package (`client.beta.agents`), not the separate Agents SDK (`openai-agents`).
 
